@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Islam</h1>
 <h3 align="center">A passionate backend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="...">
+
 
 
 
