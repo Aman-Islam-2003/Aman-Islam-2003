@@ -2,7 +2,7 @@
 **Building scalable solutions with creativity and precision – [Aman Islam](https://github.com/Aman-Islam-2003)**  
 
 ![Aman Islam](https://readme-typing-svg.demolab.com/?font=Consolas&weight=600&pause=1000&color=2EA043&center=true&vCenter=true&width=435&lines=Full+Stack+Developer)  
-<img align="right" width="400" src="[https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)" alt="Developer GIF">  
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Developer GIF">  
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Aman-Islam-2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
