@@ -62,10 +62,6 @@
 <br />
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aman-Islam-2003&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24" alt="GitHub Stats" />
-</p>
-
-<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Islam-2003&theme=react&hide_border=false" alt="GitHub Streak" />
 </p>
 
